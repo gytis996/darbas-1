@@ -81,6 +81,13 @@ header img {
   justify-content: center;
   text-align: center;
 }
+.underline {
+  width: 4rem;
+  height: 1rem;
+  background: black;
+  margin: 0.8rem auto 2rem auto; /* center it */
+  border-radius: 2px;
+}
 
 .gallery {
   display: grid;
